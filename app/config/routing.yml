@@ -1,0 +1,4 @@
+ahs_blog:
+    resource: "@AhsBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
